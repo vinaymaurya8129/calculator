@@ -10,3 +10,5 @@ clone it from here:
 https link : https://github.com/vinaymaurya8129/calculator.git
 
 now hit the run button 
+
+apply git command in the project repository
