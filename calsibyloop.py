@@ -29,10 +29,7 @@ root.geometry("376x402")
 root.minsize(376, 402)
 root.maxsize(376, 402)
 root.title("Calculator")
-try:
-    root.wm_iconbitmap("cal.ico")
-except:
-    root.wm_iconbitmap("calculator\\cal.ico")
+# root.wm_iconbitmap("cal.ico")
 
 Svariable=StringVar()
 Svariable.set("")
